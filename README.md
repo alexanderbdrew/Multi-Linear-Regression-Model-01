@@ -1,3 +1,3 @@
 # Linear-Regression-Model
-This is a Linear Regression Model i created to help me better understand some basic ML concepts during my ML module at University.
+This is a Linear Regression Model i created which makes predictions on bike rentals based on the day, weather and temperature.
 NOTE: Please put both the ipynb and csv file in the same folder to allow the code to read the dataset.
